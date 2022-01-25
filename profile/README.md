@@ -4,7 +4,7 @@
 
 This is the GitHub organization of the Pygame Community Discord server, the largest dedicated online community of pygame fans and users on Discord.
 
-We aim to enhance the community around the `pygame` Python library by hosting exciting game jams, creating cool community games, and more.
+We aim to enhance the community around the [`pygame`](https://www.github.com/pygame/pygame) Python library by hosting exciting game jams, creating cool community games, and more.
 We provide a welcoming space to learn, master and create games with pygame, or to hang out with developers, content creators, gamers, artists, musicians, and a lot of other cool people.
 
 **[Join Us!](https://discord.gg/ZuB2RySPRJ)**
