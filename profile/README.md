@@ -1,6 +1,6 @@
 ## Welcome To Pygame Community Discord
 
-<img src="https://user-images.githubusercontent.com/65417594/150978711-583ebd68-d644-4a16-a161-52e8cbd3097b.png" align="center" alt="Pygame Community Banner" height=400>
+<img src="https://user-images.githubusercontent.com/65417594/150978711-583ebd68-d644-4a16-a161-52e8cbd3097b.png" align="center" alt="Pygame Community Banner" height=300>
 
 This is the GitHub organization of the Pygame Community Discord server, the largest dedicated online community of pygame fans and users on Discord.
 
