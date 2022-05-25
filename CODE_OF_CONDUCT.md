@@ -32,7 +32,7 @@ When performing any action is it important to consider the impact it will have o
 
 ## Scope
 
-This Code of Conduct applies to all spaces managed by Pygame Community Discord Server. This includes, but is not limited to, the Discord server, our repositories on GitHub and our YouTube channel, and meet-ups. As well as following the spirit of this code of conduct, it is also import to follow domain-specific rules for anything related to the Pygame Community Discord (e.g. the #rules and #guidance channels on the Discord server).
+This Code of Conduct applies to all spaces managed by Pygame Community. This includes, but is not limited to, the Discord server, our repositories on GitHub and our YouTube channel, and meet-ups. As well as following the spirit of this code of conduct, it is also import to follow domain-specific rules for anything related to other platforms, e.g. the Pygame Community Discord (e.g. the #rules and #guidance channels on the Discord server).
 
 The Pygame Community Code of Conduct applies equally to all members of the community, including staff.
 
