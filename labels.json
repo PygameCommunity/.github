@@ -1,0 +1,132 @@
+[
+    {
+        "name": "bug 🐛",
+        "description": "Something isn't working",
+        "color": "d73a4a"
+    },
+    {
+        "name": "code backbone",
+        "description": "For non-specific things related to the core/foundational codebase",
+        "color": "604069"
+    },
+    {
+        "name": "code quality & cleanliness 🧹",
+        "description": "For issues/PRs that deal with code quality and cleanliness",
+        "color": "b44a9e"
+    },
+    {
+        "name": "difficulty: easy 😎",
+        "description": "This will be easy to do for most contributors",
+        "color": "87e048"
+    },
+    {
+        "name": "difficulty: hard 😭",
+        "description": "This will be hard to do for most contributors",
+        "color": "b60205"
+    },
+    {
+        "name": "difficulty: medium 🧐",
+        "description": "This will be moderately difficult to do for most contributors",
+        "color": "dea30d"
+    },
+    {
+        "name": "difficulty: unknown",
+        "description": "This issue had not been looked at yet",
+        "color": "888888"
+    },
+    {
+        "name": "documentation 🧾",
+        "description": "Improvements or additions to documentation",
+        "color": "0075ca"
+    },
+    {
+        "name": "duplicate",
+        "description": "This issue or pull request already exists",
+        "color": "cfd3d7"
+    },
+    {
+        "name": "enhancement ✨",
+        "description": "Improvements to existing features",
+        "color": "a2eeef"
+    },
+    {
+        "name": "feature request ✋",
+        "description": "New features to be added",
+        "color": "5b3094"
+    },
+    {
+        "name": "good first issue 🔰",
+        "description": "Good for newcomers",
+        "color": "7057ff"
+    },
+    {
+        "name": "help wanted 🙏",
+        "description": "Extra attention is needed",
+        "color": "008672"
+    },
+    {
+        "name": "impact: large 🌊",
+        "description": "Serious Issues that might lead to crashes or undefined behavior",
+        "color": "e30b0b"
+    },
+    {
+        "name": "impact: medium 💦",
+        "description": "Issues that are noticable, but don't inhibit most functionality",
+        "color": "fbca04"
+    },
+    {
+        "name": "impact: small 💧",
+        "description": "Minor issues that aren't very noticable",
+        "color": "0e8a16"
+    },
+    {
+        "name": "impact: unknown",
+        "description": "This issue has not been impact-checked yet",
+        "color": "dddddd"
+    },
+    {
+        "name": "invalid 🚫",
+        "description": "This doesn't seem right, or isn't properly structured/formatted",
+        "color": "990d00"
+    },
+    {
+        "name": "PR: awaiting review",
+        "description": "A PR that is awaiting review",
+        "color": "186917"
+    },
+    {
+        "name": "PR: changes requested",
+        "description": "A PR that needs more changes before merging",
+        "color": "a15620"
+    },
+    {
+        "name": "PR: don't merge 🛑",
+        "description": "Further action is required before merging this PR",
+        "color": "f9d0c4"
+    },
+    {
+        "name": "PR: draft",
+        "description": "A PR that is a draft",
+        "color": "bfdadc"
+    },
+    {
+        "name": "PR: needs author input",
+        "description": "A PR that needs more input from its author",
+        "color": "b64c63"
+    },
+    {
+        "name": "PR: needs core review",
+        "description": "A PR that is substantial, and needs more review",
+        "color": "962918"
+    },
+    {
+        "name": "PR: needs testing",
+        "description": "The PR needs more testing",
+        "color": "3e48aa"
+    },
+    {
+        "name": "priority: high 🚨",
+        "description": "This is something we'll be giving our full attention to",
+        "color": "f2bfc7"
+    }
+]
