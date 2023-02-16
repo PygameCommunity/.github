@@ -8,9 +8,9 @@
 
 
 
-This is the GitHub organization of Pygame Community, a dedicated online community of pygame fans and users.
+This is the GitHub organization of Pygame Community, a dedicated online community of pygame developers, fans and users.
 
-We aim to enhance the community around the **[`pygame`](https://www.github.com/pygame/pygame)** Python library by hosting exciting game jams, creating cool community games, and more.
+We aim to develop the **[`pygame`](https://www.github.com/pygame-community/pygame-ce)** Python library and enhance its community, by hosting exciting game jams, creating cool community games, and more.
 We provide a welcoming space to learn, master and create games with pygame, or to hang out with developers, content creators, gamers, artists, musicians, and a lot of other cool people.
 
-**[Join us on Discord!](https://discord.gg/ZuB2RySPRJ)** | **[YouTube](https://www.youtube.com/channel/UCadZkRAdAfelko4mcD3Uq4Q)** | **[Patreon](https://www.patreon.com/pygamecommunity)**
+**[Join us on Discord!](https://discord.gg/pygame)** | **[YouTube](https://www.youtube.com/@pygamecommunity)** | **[Patreon](https://www.patreon.com/pygamecommunity)**
