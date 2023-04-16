@@ -14,6 +14,6 @@ We develop the **[`pygame-ce`](https://www.github.com/pygame-community/pygame-ce
 We provide a welcoming space to learn, master and create games with pygame, or to hang out with developers, content creators, gamers, artists, musicians, and a lot of other cool people.
 
 
-## Related: [`pygame-web`](https://github.com/pygame-web)
+### Related: [`pygame-web`](https://github.com/pygame-web)
 
-# **[Join us on Discord!](https://discord.gg/pygame)** | **[YouTube](https://www.youtube.com/@pygamecommunity)** | **[Patreon](https://www.patreon.com/pygamecommunity)** | **[Twitter](https://twitter.com/pygame_com)**
+### **[Join us on Discord!](https://discord.gg/pygame)** | **[YouTube](https://www.youtube.com/@pygamecommunity)** | **[Patreon](https://www.patreon.com/pygamecommunity)** | **[Twitter](https://twitter.com/pygame_com)**
