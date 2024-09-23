@@ -16,4 +16,4 @@ We provide a welcoming space to learn, master and create games with pygame, or t
 
 ### Related: [`pygame-web`](https://github.com/pygame-web) | [`pygame-examples`](https://github.com/pygame-examples) | [`pygame_gui`](https://github.com/MyreMylar/pygame_gui/)
 
-### **[Join us on Discord!](https://discord.gg/pygame)** | **[YouTube](https://www.youtube.com/@pygamecommunity)** | **[Patreon](https://www.patreon.com/pygamecommunity)** | **[Twitter](https://twitter.com/pygame_com)** | **[itch.io](https://pygame-community.itch.io)** | **[Jams](https://itch.io/jams/hosted-by-pygame-community)**
+### **[Join us on Discord!](https://discord.gg/pygame)** | **[YouTube](https://www.youtube.com/@pygamecommunity)** | **[Patreon](https://www.patreon.com/pygamecommunity)** | **[Twitter](https://twitter.com/pygamecommunity)** | **[itch.io](https://pygame-community.itch.io)** | **[Jams](https://itch.io/jams/hosted-by-pygame-community)**
